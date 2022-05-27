@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/Avatar.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,37 +19,39 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            With an eye for design and a passion for organization, I create software that is easy to use and serves as a piece of functional art. I am logically minded and have a preference for back end development, but do not disappoint when it comes to front end development. 
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Javascript, Python, and SQL. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My specialties are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Applications </b></i> and
                 also in areas related to{" "}
+                <i>
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Full-stack Software Development.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
+              I apply my passion for developing products
+              with <i><b className="purple">Node.js</b></i> and 
+              {" "}<i><b className="purple">Express</b></i>
+              , utilizing UI frameworks such as
+                <i><b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+                  React
+                </b></i>
+                {" "}  and
+                <i><b className="purple">
+                  {" "}
+                  MaterialUI
+                </b></i>.             
+              &nbsp; 
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +69,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/makeitbreaux"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +79,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/MakeItBreaux"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -87,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/brianabreaux/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +99,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="https://www.instagram.com/make_it_breaux/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

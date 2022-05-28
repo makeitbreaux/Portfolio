@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/Avatar.png";
+import homeLogo from "../../Assets/home-main.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -30,7 +30,7 @@ function Home2() {
               My specialties are building new &nbsp;
               <i>
                 <b className="purple">Web Applications </b></i> and
-                also in areas related to{" "}
+                in areas related to{" "}
                 <i>
                 <b className="purple">
                   Full-stack Software Development.
@@ -56,7 +56,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={homeLogo} className="img-fluid" alt="avatar" />
             </Tilt>
           </Col>
         </Row>

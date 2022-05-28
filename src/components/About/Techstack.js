@@ -1,52 +1,62 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
+  DiPostgresql,
   DiPython,
-  DiGit,
+  DiGit
 } from "react-icons/di";
 import {
-  SiPytorch,
-  SiFirebase,
-  SiNextdotjs,
+  SiExpress,
+  SiJasmine,
+  SiJest,
+  SiMaterialui
 } from "react-icons/si";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <h5>JavaScript</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
+        <h5>Python</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <DiReact />
+        <h5>React</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiExpress />
+        <h5>Express</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiPostgresql />
+        <h5>PostgreSQL</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
+        <h5>Node.js</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJest />
+        <h5>Jest</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJasmine />
+        <h5>Jasmine</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMaterialui />
+        <h5>MaterialUI</h5>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit />
+        <h5>Git/GitHub</h5>
       </Col>
     </Row>
   );

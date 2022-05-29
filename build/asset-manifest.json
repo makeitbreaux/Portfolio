@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/makeitbreaux/makeitbreaux.github.io/static/css/main.00409fab.css",
+    "main.js": "/makeitbreaux/makeitbreaux.github.io/static/js/main.cb9ed61e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/makeitbreaux/makeitbreaux.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/makeitbreaux/makeitbreaux.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Avatar.png": "/makeitbreaux/makeitbreaux.github.io/static/media/Avatar.3b8fcf7a7ce625360fc7.png",
+    "static/media/MoC.png": "/makeitbreaux/makeitbreaux.github.io/static/media/MoC.6b2369ce05d2d13b3103.png",
+    "static/media/home-main.png": "/makeitbreaux/makeitbreaux.github.io/static/media/home-main.6479ec5407fd6ae1236d.png",
+    "static/media/BrianaBreauxResume.pdf": "/makeitbreaux/makeitbreaux.github.io/static/media/BrianaBreauxResume.e3187b80af88809bc2fe.pdf",
+    "static/media/BFhome.png": "/makeitbreaux/makeitbreaux.github.io/static/media/BFhome.f6dc346e7e20e624e818.png",
+    "static/media/home-bg.jpg": "/makeitbreaux/makeitbreaux.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/makeitbreaux/makeitbreaux.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/makeitbreaux/makeitbreaux.github.io/index.html",
+    "main.00409fab.css.map": "/makeitbreaux/makeitbreaux.github.io/static/css/main.00409fab.css.map",
+    "main.cb9ed61e.js.map": "/makeitbreaux/makeitbreaux.github.io/static/js/main.cb9ed61e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/makeitbreaux/makeitbreaux.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/makeitbreaux/makeitbreaux.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00409fab.css",
+    "static/js/main.cb9ed61e.js"
+  ]
+}

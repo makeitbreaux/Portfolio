@@ -18,7 +18,7 @@ With an eye for design and a passion for organization, I create software that is
 -   React
 -   Flask
 
-#### Styling Libraries
+### Styling Libraries
 
 -   MaterialUI
 -   Bootstrap5
@@ -33,3 +33,11 @@ With an eye for design and a passion for organization, I create software that is
 ### Databases
 
 -   PostgreSQL
+
+### Tools
+
+-   Linux/Ubuntu
+-   Git/GitHub
+-   VSCode
+-   Insomnia
+-   Heroku

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/makeitbreaux/Portfolio/static/css/main.8a46a498.css",
-    "main.js": "/makeitbreaux/Portfolio/static/js/main.382a2ba2.js",
-    "static/js/415.4d6acbeb.chunk.js": "/makeitbreaux/Portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/makeitbreaux/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Avatar.png": "/makeitbreaux/Portfolio/static/media/Avatar.3b8fcf7a7ce625360fc7.png",
-    "static/media/MoC.png": "/makeitbreaux/Portfolio/static/media/MoC.6b2369ce05d2d13b3103.png",
-    "static/media/home-main.png": "/makeitbreaux/Portfolio/static/media/home-main.6479ec5407fd6ae1236d.png",
-    "static/media/BrianaBreauxResume.pdf": "/makeitbreaux/Portfolio/static/media/BrianaBreauxResume.e3187b80af88809bc2fe.pdf",
-    "static/media/BFhome.png": "/makeitbreaux/Portfolio/static/media/BFhome.f6dc346e7e20e624e818.png",
-    "static/media/home-bg.jpg": "/makeitbreaux/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/makeitbreaux/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/makeitbreaux/Portfolio/index.html",
-    "main.8a46a498.css.map": "/makeitbreaux/Portfolio/static/css/main.8a46a498.css.map",
-    "main.382a2ba2.js.map": "/makeitbreaux/Portfolio/static/js/main.382a2ba2.js.map",
-    "415.4d6acbeb.chunk.js.map": "/makeitbreaux/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/makeitbreaux/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.3aa3252e.css",
+    "main.js": "/Portfolio/static/js/main.49115899.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Avatar.png": "/Portfolio/static/media/Avatar.3b8fcf7a7ce625360fc7.png",
+    "static/media/MoC.png": "/Portfolio/static/media/MoC.6b2369ce05d2d13b3103.png",
+    "static/media/home-main.png": "/Portfolio/static/media/home-main.6479ec5407fd6ae1236d.png",
+    "static/media/BrianaBreauxResume.pdf": "/Portfolio/static/media/BrianaBreauxResume.e3187b80af88809bc2fe.pdf",
+    "static/media/BFhome.png": "/Portfolio/static/media/BFhome.f6dc346e7e20e624e818.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.3aa3252e.css.map": "/Portfolio/static/css/main.3aa3252e.css.map",
+    "main.49115899.js.map": "/Portfolio/static/js/main.49115899.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a46a498.css",
-    "static/js/main.382a2ba2.js"
+    "static/css/main.3aa3252e.css",
+    "static/js/main.49115899.js"
   ]
 }

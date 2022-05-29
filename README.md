@@ -1,5 +1,6 @@
 # Briana Breaux Portfolio
 
+![Avatar](https://github.com/makeitbreaux/makeitbreaux.github.io/src/Assets/Avatar.png)
 With an eye for design and a passion for organization, I create software that is easy to use and serves as a piece of functional art. I am logically minded and have a preference for back end development, but do not disappoint when it comes to front end development.
 
 ## Technical Skills
